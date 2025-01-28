@@ -1,3 +1,56 @@
+--------------------------------------------------------------------------------
+-- NoRecoil_Find_v4_And_HookFire.lua
+-- 1) Looks in getgc for a table 'v4' that has .Fire and .HookEvent
+-- 2) Hooks v4.Fire => if eventName=="PunchCam", skip => no recoil
+-- 3) Debug logs confirm success or failure
+--------------------------------------------------------------------------------
+
+print("[NoRecoil] Searching getgc for 'v4' object with .Fire and .HookEvent...")
+
+local v4 = nil
+
+-- Step A) Attempt to find v4 in memory:
+for _, obj in ipairs(getgc(true)) do
+    if type(obj) == "table" then
+        -- check if 'Fire' is a function, 'HookEvent' is a function, etc.
+        if type(rawget(obj, "Fire")) == "function"
+           and type(rawget(obj, "HookEvent")) == "function" then
+
+            print("[NoRecoil] Potential v4 found in memory. Checking further...")
+
+            -- Optionally check for other known methods:
+            -- if type(rawget(obj, "Invoke")) == "function" then ...
+            -- But let's assume Fire & HookEvent is enough.
+
+            v4 = obj
+            break
+        end
+    end
+end
+
+if not v4 then
+    warn("[NoRecoil] Could NOT find a 'v4' table with .Fire in getgc. Stopping.")
+    return
+end
+
+print("[NoRecoil] Found a table we assume is 'v4'. Attempting to hook v4.Fire now...")
+
+-- Step B) Hook v4.Fire so it does nothing on 'PunchCam'
+local oldFire = nil
+oldFire = hookfunction(v4.Fire, function(eventName, ...)
+    if eventName == "PunchCam" then
+        print("[NoRecoil DEBUG] Intercepted v4.Fire('PunchCam', ...). Overriding => no recoil!")
+        -- do NOT call oldFire => skipping recoil
+        return
+    else
+        -- pass everything else to original
+        return oldFire(eventName, ...)
+    end
+end)
+
+print("[NoRecoil] Hook complete! 'PunchCam' calls to v4.Fire are now ignored => no camera recoil.")
+
+
 --[[
  .____                  ________ ___.    _____                           __                
  |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 

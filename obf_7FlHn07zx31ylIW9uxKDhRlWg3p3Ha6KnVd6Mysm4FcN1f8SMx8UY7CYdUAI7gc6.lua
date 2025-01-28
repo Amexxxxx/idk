@@ -66,7 +66,7 @@ do
 	end
 end
 do
-	getgenv().Library = {[LUAOBFUSACTOR_DECRYPT_STR_0("\121\199\235\88\95\241\148\83\199\235\69", "\224\58\168\133\54\58\146")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\124\68\89\242\103\149", "\107\57\54\43\157\21\230\231")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\239\156\20\240\183\207", "\175\187\235\113\149\217\188")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\19\173\139\73\224\109\107", "\24\92\207\225\44\131\25")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\111\193\185\91\18\115\76\192", "\29\43\179\216\44\123")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\153\203\33\91\180\215\39\120\164\201\37\95", "\44\221\185\64")]={LUAOBFUSACTOR_DECRYPT_STR_0("\48\242\73\91", "\19\97\135\40\63"),LUAOBFUSACTOR_DECRYPT_STR_0("\157\77\38\58\61\52", "\81\206\60\83\91\79"),LUAOBFUSACTOR_DECRYPT_STR_0("\109\162\194\113\35\198", "\196\46\203\176\18\79\163\45"),LUAOBFUSACTOR_DECRYPT_STR_0("\140\39\102\10", "\143\216\66\30\126\68\155"),LUAOBFUSACTOR_DECRYPT_STR_0("\134\193\3\206", "\129\202\168\109\171\165\195\183"),LUAOBFUSACTOR_DECRYPT_STR_0("\22\74\62\217\208\19\234\39", "\134\66\56\87\184\190\116"),LUAOBFUSACTOR_DECRYPT_STR_0("\26\62\7\175", "\85\92\81\105\219\121\139\65")},[LUAOBFUSACTOR_DECRYPT_STR_0("\206\182\83\81\117\208\243\160", "\191\157\211\48\37\28")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\235\23\241\17\63\236\26\247\8\51\208\17\231", "\90\191\127\148\124")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\94\139\47\16\107", "\119\24\231\78")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\183\35\171\75\209\69\21\164\33\164\77\207", "\113\226\77\197\42\188\32")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\24\3\253\185\62", "\213\90\118\148")]=LUAOBFUSACTOR_DECRYPT_STR_0("\124\59\186\22\106\73\33\161\88\73\27\8\146\119", "\45\59\78\212\54"),[LUAOBFUSACTOR_DECRYPT_STR_0("\37\127\167", "\144\112\54\227\235\230\78\205")]=LUAOBFUSACTOR_DECRYPT_STR_0("\148\61\1\188\247\73\188\61\1\248\144\125\149\9", "\59\211\72\111\156\176"),[LUAOBFUSACTOR_DECRYPT_STR_0("\123\137\240\44\72\130\206\34\74\130", "\77\46\231\131")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\147\90\191\84\142\93\187\69", "\32\218\52\214")]=os.clock(),[LUAOBFUSACTOR_DECRYPT_STR_0("\104\24\61\172\244\162", "\58\46\119\81\200\145\208\37")]=LUAOBFUSACTOR_DECRYPT_STR_0("\7\153\51\167\176\149\35\41", "\86\75\236\80\204\201\221"),[LUAOBFUSACTOR_DECRYPT_STR_0("\81\78\121\131\247\140\84\78\123\129\251\153", "\235\18\33\23\229\158")]=LUAOBFUSACTOR_DECRYPT_STR_0("\124\175\194\176\73\146\212\185\31\153\206\181\86\179\198\168", "\219\48\218\161"),[LUAOBFUSACTOR_DECRYPT_STR_0("\209\88", "\128\132\17\28\41\187\47")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\47\51\11\63", "\61\97\82\102\90")]=LUAOBFUSACTOR_DECRYPT_STR_0("\128\59\168\64\222\127\11\11", "\105\204\78\203\43\167\55\126"),[LUAOBFUSACTOR_DECRYPT_STR_0("\134\166\44\13\22\38\206\95\161", "\49\197\202\67\126\115\100\167")]=Enum.KeyCode.LeftAlt,[LUAOBFUSACTOR_DECRYPT_STR_0("\30\85\214\61\137\87\82\62\65\218\45", "\62\87\59\191\73\224\54")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\192\14\245\222\244", "\169\135\98\154")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\233\123\49\70\210\49\194\206\116\48", "\168\171\23\68\52\157\83")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\193\98\240\143\41\56\149", "\231\148\17\149\205\69\77")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\163\171\198\246\71\219\146\166\192\252\94\241\135", "\159\224\199\167\155\55")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\213\255\41\192\196\250\38\215", "\178\151\147\92")]=14,[LUAOBFUSACTOR_DECRYPT_STR_0("\188\248\94\52\29\94\119\141\243\79\55\54\94\123\139", "\26\236\157\44\82\114\44")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\6\47\198\79\16\7\219\95\47\54", "\59\74\78\181")]=3,[LUAOBFUSACTOR_DECRYPT_STR_0("\17\198\95\95\189\22\193\95\95\183", "\211\69\177\58\58")]=0.15,[LUAOBFUSACTOR_DECRYPT_STR_0("\131\242\124\240\231\238\182\246\112\251\238\248\163\252\117\240", "\171\215\133\25\149\137")]=Enum.EasingStyle.Quad,[LUAOBFUSACTOR_DECRYPT_STR_0("\205\201\33\238\204\63\236\75\228\204\17\245\227\63\238", "\34\129\168\82\154\143\80\156")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\178\179\39\14\90\67\136\151\185\1\14\78\92\140\150\186\1\10\92\75", "\233\229\210\83\107\40\46")]=0.15,[LUAOBFUSACTOR_DECRYPT_STR_0("\226\87\32\196\0\207\86\1\211\9\196\65\38\211\1\226\77\62\217\23\241\75\49\221\0\211", "\101\161\34\82\182")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\203\24\75\236\222\236\150\29\237\1\92\253\207\231\134\5\237\20\91\247\213\230\175\33\236\8", "\78\136\109\57\158\187\130\226")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\10\48\237\240\50\28\246\253\49\45\201\248\61\52\252\227\45", "\145\94\95\153")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\201\194\0\212\66\156\248\212\22\220\64\179\208\194\16\208\93", "\215\157\173\116\181\46")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\2\181\159\247\200\56\181\153\249\234\58\167\130\230\211\58\186", "\186\85\212\235\146")]=LUAOBFUSACTOR_DECRYPT_STR_0("\246\142\6\190\11\231\95\202\149", "\56\162\225\118\158\89\142"),[LUAOBFUSACTOR_DECRYPT_STR_0("\111\0\195\187\43\215\82\63\233\161\38\221\68", "\184\60\101\160\207\66")]=100,[LUAOBFUSACTOR_DECRYPT_STR_0("\21\144\115\172\53\141\107\178\11\171\114\184\52\154", "\220\81\226\28")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\58\219\134\242\233\198\7\218\144\220\230\200\4", "\167\115\181\226\155\138")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\205\50\226\82\88\126\202\237\48\193\78\122\124\195\241", "\166\130\66\135\60\27\17")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\108\69\216\112\34\108\67\201\125\60\77\77\198\97", "\80\36\42\174\21")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\121\25\57\126\65\7\16\118\65\7", "\26\46\112\87")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\142\42\165\112\176\168\98\184\182\52\159\124\182\188\78\186\188\48\184", "\212\217\67\203\20\223\223\37")]=50,[LUAOBFUSACTOR_DECRYPT_STR_0("\137\142\186\215\191\131\143\231\147", "\178\218\237\200")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\144\186\232\196", "\176\214\213\134")]=Font.new(getcustomasset(LUAOBFUSACTOR_DECRYPT_STR_0("\216\184\181\223\177\126\76\246\226\144\219\166\66\74\187\153\183\220\167\91\88\186\171\185\218\188", "\57\148\205\214\180\200\54")), Enum.FontWeight.Regular),[LUAOBFUSACTOR_DECRYPT_STR_0("\52\242\59\32\69\27\231\48", "\22\114\157\85\84")]=12,[LUAOBFUSACTOR_DECRYPT_STR_0("\224\217\18\195\90\255\166\195\236\6\205", "\200\164\171\115\164\61\150")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\149\241\26\71\138\176\240\55\64\155\170\231", "\227\222\148\99\37")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\29\93\70\255\255\58\81\83\226\240\60\92\65", "\153\83\50\50\150")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\105\121\99\48\118\173\89", "\45\61\22\19\124\19\203")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\236\27\9\241\14\117", "\217\161\114\109\149\98\16")]={}},[LUAOBFUSACTOR_DECRYPT_STR_0("\57\37\33\126\181\122\22\20\33\108\185", "\20\114\64\88\28\220")]=LUAOBFUSACTOR_DECRYPT_STR_0("\29\14\197\177\234", "\221\81\97\178\212\152\176"),[LUAOBFUSACTOR_DECRYPT_STR_0("\230\226\4\232", "\122\173\135\125\155")]={[Enum.KeyCode.LeftShift]=LUAOBFUSACTOR_DECRYPT_STR_0("\168\140\51\145\22\23\252", "\168\228\161\96\217\95\81"),[Enum.KeyCode.RightShift]=LUAOBFUSACTOR_DECRYPT_STR_0("\233\156\29\116\6\113\239", "\55\187\177\78\60\79"),[Enum.KeyCode.LeftControl]=LUAOBFUSACTOR_DECRYPT_STR_0("\1\131\124\223\116\227", "\224\77\174\63\139\38\175"),[Enum.KeyCode.RightControl]=LUAOBFUSACTOR_DECRYPT_STR_0("\182\12\123\26\182\109", "\78\228\33\56"),[Enum.KeyCode.LeftAlt]=LUAOBFUSACTOR_DECRYPT_STR_0("\226\51\147\47\177", "\229\174\30\210\99"),[Enum.KeyCode.RightAlt]=LUAOBFUSACTOR_DECRYPT_STR_0("\41\160\167\125\217", "\89\123\141\230\49\141\93"),[Enum.KeyCode.CapsLock]=LUAOBFUSACTOR_DECRYPT_STR_0("\208\80\198\63", "\42\147\17\150\108\112"),[Enum.KeyCode.Space]=LUAOBFUSACTOR_DECRYPT_STR_0("\60\150\14\90", "\136\111\198\77\31\135"),[Enum.KeyCode.One]="1",[Enum.KeyCode.Two]="2",[Enum.KeyCode.Three]="3",[Enum.KeyCode.Four]="4",[Enum.KeyCode.Five]="5",[Enum.KeyCode.Six]="6",[Enum.KeyCode.Seven]="7",[Enum.KeyCode.Eight]="8",[Enum.KeyCode.Nine]="9",[Enum.KeyCode.Zero]="0",[Enum.KeyCode.KeypadOne]=LUAOBFUSACTOR_DECRYPT_STR_0("\44\60\138\7", "\201\98\105\199\54\221\132\119"),[Enum.KeyCode.KeypadTwo]=LUAOBFUSACTOR_DECRYPT_STR_0("\151\57\174\115", "\204\217\108\227\65\98\85"),[Enum.KeyCode.KeypadThree]=LUAOBFUSACTOR_DECRYPT_STR_0("\112\246\216\182", "\160\62\163\149\133\76"),[Enum.KeyCode.KeypadFour]=LUAOBFUSACTOR_DECRYPT_STR_0("\248\149\32\123", "\163\182\192\109\79"),[Enum.KeyCode.KeypadFive]=LUAOBFUSACTOR_DECRYPT_STR_0("\26\19\45\149", "\149\84\70\96\160"),[Enum.KeyCode.KeypadSix]=LUAOBFUSACTOR_DECRYPT_STR_0("\22\51\32\187", "\141\88\102\109"),[Enum.KeyCode.KeypadSeven]=LUAOBFUSACTOR_DECRYPT_STR_0("\157\102\231\39", "\161\211\51\170\16\122\93\53"),[Enum.KeyCode.KeypadEight]=LUAOBFUSACTOR_DECRYPT_STR_0("\213\155\159\112", "\72\155\206\210"),[Enum.KeyCode.KeypadNine]=LUAOBFUSACTOR_DECRYPT_STR_0("\104\79\121\87", "\83\38\26\52\110"),[Enum.KeyCode.KeypadZero]=LUAOBFUSACTOR_DECRYPT_STR_0("\118\34\10\22", "\38\56\119\71"),[Enum.KeyCode.Minus]="-",[Enum.KeyCode.Equals]="=",[Enum.KeyCode.Tilde]="~",[Enum.KeyCode.LeftBracket]="[",[Enum.KeyCode.RightBracket]="]",[Enum.KeyCode.RightParenthesis]=")",[Enum.KeyCode.LeftParenthesis]="(",[Enum.KeyCode.Semicolon]=",",[Enum.KeyCode.Quote]="'",[Enum.KeyCode.BackSlash]="\\",[Enum.KeyCode.Comma]=",",[Enum.KeyCode.Period]=".",[Enum.KeyCode.Slash]="/",[Enum.KeyCode.Asterisk]="*",[Enum.KeyCode.Plus]="+",[Enum.KeyCode.Period]=".",[Enum.KeyCode.Backquote]="`",[Enum.UserInputType.MouseButton1]=LUAOBFUSACTOR_DECRYPT_STR_0("\222\205\9", "\54\147\143\56\182\69"),[Enum.UserInputType.MouseButton2]=LUAOBFUSACTOR_DECRYPT_STR_0("\251\163\173", "\191\182\225\159\41"),[Enum.UserInputType.MouseButton3]=LUAOBFUSACTOR_DECRYPT_STR_0("\6\63\10", "\162\75\114\72\53\235\231")}},[LUAOBFUSACTOR_DECRYPT_STR_0("\184\52\65\239\86", "\98\236\92\36\130\51")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\139\27\6\191\70\188\166", "\80\196\121\108\218\37\200\213")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\36\118\4\126\94\2\158", "\234\96\19\98\31\43\110")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\39\28\81\194\162\102", "\235\102\127\50\167\204\18")]=Color3.fromRGB(155, 125, 175),[LUAOBFUSACTOR_DECRYPT_STR_0("\99\164\246\44\74\42\113\162\246\38\74\58", "\78\48\193\149\67\36")]=Color3.fromRGB(103, 82, 118),[LUAOBFUSACTOR_DECRYPT_STR_0("\28\23\135\16\85\19\17\142\12\83\49\13\148", "\33\80\126\224\120")]=Color3.fromRGB(42, 44, 56),[LUAOBFUSACTOR_DECRYPT_STR_0("\200\169\17\207\127\227\166\23\214\93\255\188", "\60\140\200\99\164")]=Color3.fromRGB(37, 37, 50),[LUAOBFUSACTOR_DECRYPT_STR_0("\168\225\16\42\171\137\241", "\194\231\148\100\70")]=Color3.fromRGB(32, 32, 38),[LUAOBFUSACTOR_DECRYPT_STR_0("\111\66\205\170\248\205", "\168\38\44\161\195\150")]=Color3.fromRGB(60, 55, 75),[LUAOBFUSACTOR_DECRYPT_STR_0("\180\249\154\98\19\231\186\25\146", "\118\224\156\226\22\80\136\214")]=Color3.fromRGB(180, 180, 180),[LUAOBFUSACTOR_DECRYPT_STR_0("\118\235\65\148\102\239\75\139", "\224\34\142\57")]=Color3.fromRGB(175, 175, 175),[LUAOBFUSACTOR_DECRYPT_STR_0("\234\162\221\201\81\254\79\10\219\181", "\110\190\199\165\189\19\145\61")]=Color3.fromRGB(0, 0, 0),[LUAOBFUSACTOR_DECRYPT_STR_0("\243\230\118\239\142\228\213\231\120\250", "\167\186\139\23\136\235")]=Color3.fromRGB(255, 255, 255),[LUAOBFUSACTOR_DECRYPT_STR_0("\51\184\137\10\31\145\137\31\17", "\109\122\213\232")]=Color3.fromRGB(94, 87, 105),[LUAOBFUSACTOR_DECRYPT_STR_0("\220\254\177\59\247", "\80\142\151\194")]=Color3.fromRGB(251, 138, 138),[LUAOBFUSACTOR_DECRYPT_STR_0("\36\202\120\91", "\44\99\166\23")]=Color3.fromRGB(211, 170, 238)},[LUAOBFUSACTOR_DECRYPT_STR_0("\76\229\44\37\54\176\111", "\196\28\151\73\86\83")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\215\6\47\17\151\84\12", "\22\147\99\73\112\226\56\120")]={1,[[{"Outline":"202026","Accent":"9a81b3","SecondAccent":"675276","TextColor":"b4b4b4","TextDark":"888888","LightContrast":"2a2a38","DarkContrast":"242430","TextBorder":"000000","Inline":"3c374b","Risky":"fb8a8a","ImageColor":"ffffff","ImageDark":"525062","Glow":"9a81b3"}]]},[LUAOBFUSACTOR_DECRYPT_STR_0("\153\119\251\230\158", "\237\216\21\130\149")]={2,[[{"Outline":"0a0a0a","Accent":"8c87b4","SecondAccent":"5a5582","TextColor":"b4b4b4","TextDark":"888888","LightContrast":"1e1e1e","DarkContrast":"141414","TextBorder":"000000","Inline":"2d2d2d","Risky":"fb8a8a","ImageColor":"ffffff","ImageDark":"454357","Glow":"8c87b4"}]]},[LUAOBFUSACTOR_DECRYPT_STR_0("\166\92\94\86\190", "\62\226\46\63\63\208\169")]={3,[[{"Outline":"222026","Accent":"7d98af","SecondAccent":"506473","TextColor":"b4b4b4","TextDark":"888888","LightContrast":"2f2a38","DarkContrast":"282430","TextBorder":"000000","Inline":"373f4b","Risky":"74ffcd","ImageColor":"ffffff","ImageDark":"506473","Glow":"7d98af"}]]}}}};
+	getgenv().Library = {[LUAOBFUSACTOR_DECRYPT_STR_0("\121\199\235\88\95\241\148\83\199\235\69", "\224\58\168\133\54\58\146")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\124\68\89\242\103\149", "\107\57\54\43\157\21\230\231")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\239\156\20\240\183\207", "\175\187\235\113\149\217\188")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\19\173\139\73\224\109\107", "\24\92\207\225\44\131\25")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\111\193\185\91\18\115\76\192", "\29\43\179\216\44\123")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\153\203\33\91\180\215\39\120\164\201\37\95", "\44\221\185\64")]={LUAOBFUSACTOR_DECRYPT_STR_0("\48\242\73\91", "\19\97\135\40\63"),LUAOBFUSACTOR_DECRYPT_STR_0("\157\77\38\58\61\52", "\81\206\60\83\91\79"),LUAOBFUSACTOR_DECRYPT_STR_0("\109\162\194\113\35\198", "\196\46\203\176\18\79\163\45"),LUAOBFUSACTOR_DECRYPT_STR_0("\140\39\102\10", "\143\216\66\30\126\68\155"),LUAOBFUSACTOR_DECRYPT_STR_0("\134\193\3\206", "\129\202\168\109\171\165\195\183"),LUAOBFUSACTOR_DECRYPT_STR_0("\22\74\62\217\208\19\234\39", "\134\66\56\87\184\190\116"),LUAOBFUSACTOR_DECRYPT_STR_0("\26\62\7\175", "\85\92\81\105\219\121\139\65")},[LUAOBFUSACTOR_DECRYPT_STR_0("\206\182\83\81\117\208\243\160", "\191\157\211\48\37\28")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\235\23\241\17\63\236\26\247\8\51\208\17\231", "\90\191\127\148\124")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\94\139\47\16\107", "\119\24\231\78")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\183\35\171\75\209\69\21\164\33\164\77\207", "\113\226\77\197\42\188\32")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\24\3\253\185\62", "\213\90\118\148")]=LUAOBFUSACTOR_DECRYPT_STR_0("\126\32\178\89\95\88\43\185\83\67\79\110\146\102\126", "\45\59\78\212\54"),[LUAOBFUSACTOR_DECRYPT_STR_0("\37\127\167", "\144\112\54\227\235\230\78\205")]=LUAOBFUSACTOR_DECRYPT_STR_0("\150\38\9\243\194\88\182\37\10\242\196\27\149\24\60", "\59\211\72\111\156\176"),[LUAOBFUSACTOR_DECRYPT_STR_0("\123\137\240\44\72\130\206\34\74\130", "\77\46\231\131")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\147\90\191\84\142\93\187\69", "\32\218\52\214")]=os.clock(),[LUAOBFUSACTOR_DECRYPT_STR_0("\104\24\61\172\244\162", "\58\46\119\81\200\145\208\37")]=LUAOBFUSACTOR_DECRYPT_STR_0("\7\153\51\167\176\149\35\41", "\86\75\236\80\204\201\221"),[LUAOBFUSACTOR_DECRYPT_STR_0("\81\78\121\131\247\140\84\78\123\129\251\153", "\235\18\33\23\229\158")]=LUAOBFUSACTOR_DECRYPT_STR_0("\124\175\194\176\73\146\212\185\31\153\206\181\86\179\198\168", "\219\48\218\161"),[LUAOBFUSACTOR_DECRYPT_STR_0("\209\88", "\128\132\17\28\41\187\47")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\47\51\11\63", "\61\97\82\102\90")]=LUAOBFUSACTOR_DECRYPT_STR_0("\128\59\168\64\222\127\11\11", "\105\204\78\203\43\167\55\126"),[LUAOBFUSACTOR_DECRYPT_STR_0("\134\166\44\13\22\38\206\95\161", "\49\197\202\67\126\115\100\167")]=Enum.KeyCode.LeftAlt,[LUAOBFUSACTOR_DECRYPT_STR_0("\30\85\214\61\137\87\82\62\65\218\45", "\62\87\59\191\73\224\54")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\192\14\245\222\244", "\169\135\98\154")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\233\123\49\70\210\49\194\206\116\48", "\168\171\23\68\52\157\83")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\193\98\240\143\41\56\149", "\231\148\17\149\205\69\77")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\163\171\198\246\71\219\146\166\192\252\94\241\135", "\159\224\199\167\155\55")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\213\255\41\192\196\250\38\215", "\178\151\147\92")]=14,[LUAOBFUSACTOR_DECRYPT_STR_0("\188\248\94\52\29\94\119\141\243\79\55\54\94\123\139", "\26\236\157\44\82\114\44")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\6\47\198\79\16\7\219\95\47\54", "\59\74\78\181")]=3,[LUAOBFUSACTOR_DECRYPT_STR_0("\17\198\95\95\189\22\193\95\95\183", "\211\69\177\58\58")]=0.15,[LUAOBFUSACTOR_DECRYPT_STR_0("\131\242\124\240\231\238\182\246\112\251\238\248\163\252\117\240", "\171\215\133\25\149\137")]=Enum.EasingStyle.Quad,[LUAOBFUSACTOR_DECRYPT_STR_0("\205\201\33\238\204\63\236\75\228\204\17\245\227\63\238", "\34\129\168\82\154\143\80\156")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\178\179\39\14\90\67\136\151\185\1\14\78\92\140\150\186\1\10\92\75", "\233\229\210\83\107\40\46")]=0.15,[LUAOBFUSACTOR_DECRYPT_STR_0("\226\87\32\196\0\207\86\1\211\9\196\65\38\211\1\226\77\62\217\23\241\75\49\221\0\211", "\101\161\34\82\182")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\203\24\75\236\222\236\150\29\237\1\92\253\207\231\134\5\237\20\91\247\213\230\175\33\236\8", "\78\136\109\57\158\187\130\226")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\10\48\237\240\50\28\246\253\49\45\201\248\61\52\252\227\45", "\145\94\95\153")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\201\194\0\212\66\156\248\212\22\220\64\179\208\194\16\208\93", "\215\157\173\116\181\46")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\2\181\159\247\200\56\181\153\249\234\58\167\130\230\211\58\186", "\186\85\212\235\146")]=LUAOBFUSACTOR_DECRYPT_STR_0("\246\142\6\190\11\231\95\202\149", "\56\162\225\118\158\89\142"),[LUAOBFUSACTOR_DECRYPT_STR_0("\111\0\195\187\43\215\82\63\233\161\38\221\68", "\184\60\101\160\207\66")]=100,[LUAOBFUSACTOR_DECRYPT_STR_0("\21\144\115\172\53\141\107\178\11\171\114\184\52\154", "\220\81\226\28")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\58\219\134\242\233\198\7\218\144\220\230\200\4", "\167\115\181\226\155\138")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\205\50\226\82\88\126\202\237\48\193\78\122\124\195\241", "\166\130\66\135\60\27\17")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\108\69\216\112\34\108\67\201\125\60\77\77\198\97", "\80\36\42\174\21")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\121\25\57\126\65\7\16\118\65\7", "\26\46\112\87")]=true,[LUAOBFUSACTOR_DECRYPT_STR_0("\142\42\165\112\176\168\98\184\182\52\159\124\182\188\78\186\188\48\184", "\212\217\67\203\20\223\223\37")]=50,[LUAOBFUSACTOR_DECRYPT_STR_0("\137\142\186\215\191\131\143\231\147", "\178\218\237\200")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\144\186\232\196", "\176\214\213\134")]=Font.new(getcustomasset(LUAOBFUSACTOR_DECRYPT_STR_0("\216\184\181\223\177\126\76\246\226\144\219\166\66\74\187\153\183\220\167\91\88\186\171\185\218\188", "\57\148\205\214\180\200\54")), Enum.FontWeight.Regular),[LUAOBFUSACTOR_DECRYPT_STR_0("\52\242\59\32\69\27\231\48", "\22\114\157\85\84")]=12,[LUAOBFUSACTOR_DECRYPT_STR_0("\224\217\18\195\90\255\166\195\236\6\205", "\200\164\171\115\164\61\150")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\149\241\26\71\138\176\240\55\64\155\170\231", "\227\222\148\99\37")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\29\93\70\255\255\58\81\83\226\240\60\92\65", "\153\83\50\50\150")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\105\121\99\48\118\173\89", "\45\61\22\19\124\19\203")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\236\27\9\241\14\117", "\217\161\114\109\149\98\16")]={}},[LUAOBFUSACTOR_DECRYPT_STR_0("\57\37\33\126\181\122\22\20\33\108\185", "\20\114\64\88\28\220")]=LUAOBFUSACTOR_DECRYPT_STR_0("\29\14\197\177\234", "\221\81\97\178\212\152\176"),[LUAOBFUSACTOR_DECRYPT_STR_0("\230\226\4\232", "\122\173\135\125\155")]={[Enum.KeyCode.LeftShift]=LUAOBFUSACTOR_DECRYPT_STR_0("\168\140\51\145\22\23\252", "\168\228\161\96\217\95\81"),[Enum.KeyCode.RightShift]=LUAOBFUSACTOR_DECRYPT_STR_0("\233\156\29\116\6\113\239", "\55\187\177\78\60\79"),[Enum.KeyCode.LeftControl]=LUAOBFUSACTOR_DECRYPT_STR_0("\1\131\124\223\116\227", "\224\77\174\63\139\38\175"),[Enum.KeyCode.RightControl]=LUAOBFUSACTOR_DECRYPT_STR_0("\182\12\123\26\182\109", "\78\228\33\56"),[Enum.KeyCode.LeftAlt]=LUAOBFUSACTOR_DECRYPT_STR_0("\226\51\147\47\177", "\229\174\30\210\99"),[Enum.KeyCode.RightAlt]=LUAOBFUSACTOR_DECRYPT_STR_0("\41\160\167\125\217", "\89\123\141\230\49\141\93"),[Enum.KeyCode.CapsLock]=LUAOBFUSACTOR_DECRYPT_STR_0("\208\80\198\63", "\42\147\17\150\108\112"),[Enum.KeyCode.Space]=LUAOBFUSACTOR_DECRYPT_STR_0("\60\150\14\90", "\136\111\198\77\31\135"),[Enum.KeyCode.One]="1",[Enum.KeyCode.Two]="2",[Enum.KeyCode.Three]="3",[Enum.KeyCode.Four]="4",[Enum.KeyCode.Five]="5",[Enum.KeyCode.Six]="6",[Enum.KeyCode.Seven]="7",[Enum.KeyCode.Eight]="8",[Enum.KeyCode.Nine]="9",[Enum.KeyCode.Zero]="0",[Enum.KeyCode.KeypadOne]=LUAOBFUSACTOR_DECRYPT_STR_0("\44\60\138\7", "\201\98\105\199\54\221\132\119"),[Enum.KeyCode.KeypadTwo]=LUAOBFUSACTOR_DECRYPT_STR_0("\151\57\174\115", "\204\217\108\227\65\98\85"),[Enum.KeyCode.KeypadThree]=LUAOBFUSACTOR_DECRYPT_STR_0("\112\246\216\182", "\160\62\163\149\133\76"),[Enum.KeyCode.KeypadFour]=LUAOBFUSACTOR_DECRYPT_STR_0("\248\149\32\123", "\163\182\192\109\79"),[Enum.KeyCode.KeypadFive]=LUAOBFUSACTOR_DECRYPT_STR_0("\26\19\45\149", "\149\84\70\96\160"),[Enum.KeyCode.KeypadSix]=LUAOBFUSACTOR_DECRYPT_STR_0("\22\51\32\187", "\141\88\102\109"),[Enum.KeyCode.KeypadSeven]=LUAOBFUSACTOR_DECRYPT_STR_0("\157\102\231\39", "\161\211\51\170\16\122\93\53"),[Enum.KeyCode.KeypadEight]=LUAOBFUSACTOR_DECRYPT_STR_0("\213\155\159\112", "\72\155\206\210"),[Enum.KeyCode.KeypadNine]=LUAOBFUSACTOR_DECRYPT_STR_0("\104\79\121\87", "\83\38\26\52\110"),[Enum.KeyCode.KeypadZero]=LUAOBFUSACTOR_DECRYPT_STR_0("\118\34\10\22", "\38\56\119\71"),[Enum.KeyCode.Minus]="-",[Enum.KeyCode.Equals]="=",[Enum.KeyCode.Tilde]="~",[Enum.KeyCode.LeftBracket]="[",[Enum.KeyCode.RightBracket]="]",[Enum.KeyCode.RightParenthesis]=")",[Enum.KeyCode.LeftParenthesis]="(",[Enum.KeyCode.Semicolon]=",",[Enum.KeyCode.Quote]="'",[Enum.KeyCode.BackSlash]="\\",[Enum.KeyCode.Comma]=",",[Enum.KeyCode.Period]=".",[Enum.KeyCode.Slash]="/",[Enum.KeyCode.Asterisk]="*",[Enum.KeyCode.Plus]="+",[Enum.KeyCode.Period]=".",[Enum.KeyCode.Backquote]="`",[Enum.UserInputType.MouseButton1]=LUAOBFUSACTOR_DECRYPT_STR_0("\222\205\9", "\54\147\143\56\182\69"),[Enum.UserInputType.MouseButton2]=LUAOBFUSACTOR_DECRYPT_STR_0("\251\163\173", "\191\182\225\159\41"),[Enum.UserInputType.MouseButton3]=LUAOBFUSACTOR_DECRYPT_STR_0("\6\63\10", "\162\75\114\72\53\235\231")}},[LUAOBFUSACTOR_DECRYPT_STR_0("\184\52\65\239\86", "\98\236\92\36\130\51")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\139\27\6\191\70\188\166", "\80\196\121\108\218\37\200\213")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\36\118\4\126\94\2\158", "\234\96\19\98\31\43\110")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\39\28\81\194\162\102", "\235\102\127\50\167\204\18")]=Color3.fromRGB(155, 125, 175),[LUAOBFUSACTOR_DECRYPT_STR_0("\99\164\246\44\74\42\113\162\246\38\74\58", "\78\48\193\149\67\36")]=Color3.fromRGB(103, 82, 118),[LUAOBFUSACTOR_DECRYPT_STR_0("\28\23\135\16\85\19\17\142\12\83\49\13\148", "\33\80\126\224\120")]=Color3.fromRGB(42, 44, 56),[LUAOBFUSACTOR_DECRYPT_STR_0("\200\169\17\207\127\227\166\23\214\93\255\188", "\60\140\200\99\164")]=Color3.fromRGB(37, 37, 50),[LUAOBFUSACTOR_DECRYPT_STR_0("\168\225\16\42\171\137\241", "\194\231\148\100\70")]=Color3.fromRGB(32, 32, 38),[LUAOBFUSACTOR_DECRYPT_STR_0("\111\66\205\170\248\205", "\168\38\44\161\195\150")]=Color3.fromRGB(60, 55, 75),[LUAOBFUSACTOR_DECRYPT_STR_0("\180\249\154\98\19\231\186\25\146", "\118\224\156\226\22\80\136\214")]=Color3.fromRGB(180, 180, 180),[LUAOBFUSACTOR_DECRYPT_STR_0("\118\235\65\148\102\239\75\139", "\224\34\142\57")]=Color3.fromRGB(175, 175, 175),[LUAOBFUSACTOR_DECRYPT_STR_0("\234\162\221\201\81\254\79\10\219\181", "\110\190\199\165\189\19\145\61")]=Color3.fromRGB(0, 0, 0),[LUAOBFUSACTOR_DECRYPT_STR_0("\243\230\118\239\142\228\213\231\120\250", "\167\186\139\23\136\235")]=Color3.fromRGB(255, 255, 255),[LUAOBFUSACTOR_DECRYPT_STR_0("\51\184\137\10\31\145\137\31\17", "\109\122\213\232")]=Color3.fromRGB(94, 87, 105),[LUAOBFUSACTOR_DECRYPT_STR_0("\220\254\177\59\247", "\80\142\151\194")]=Color3.fromRGB(251, 138, 138),[LUAOBFUSACTOR_DECRYPT_STR_0("\36\202\120\91", "\44\99\166\23")]=Color3.fromRGB(211, 170, 238)},[LUAOBFUSACTOR_DECRYPT_STR_0("\76\229\44\37\54\176\111", "\196\28\151\73\86\83")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\215\6\47\17\151\84\12", "\22\147\99\73\112\226\56\120")]={1,[[{"Outline":"202026","Accent":"9a81b3","SecondAccent":"675276","TextColor":"b4b4b4","TextDark":"888888","LightContrast":"2a2a38","DarkContrast":"242430","TextBorder":"000000","Inline":"3c374b","Risky":"fb8a8a","ImageColor":"ffffff","ImageDark":"525062","Glow":"9a81b3"}]]},[LUAOBFUSACTOR_DECRYPT_STR_0("\153\119\251\230\158", "\237\216\21\130\149")]={2,[[{"Outline":"0a0a0a","Accent":"8c87b4","SecondAccent":"5a5582","TextColor":"b4b4b4","TextDark":"888888","LightContrast":"1e1e1e","DarkContrast":"141414","TextBorder":"000000","Inline":"2d2d2d","Risky":"fb8a8a","ImageColor":"ffffff","ImageDark":"454357","Glow":"8c87b4"}]]},[LUAOBFUSACTOR_DECRYPT_STR_0("\166\92\94\86\190", "\62\226\46\63\63\208\169")]={3,[[{"Outline":"222026","Accent":"7d98af","SecondAccent":"506473","TextColor":"b4b4b4","TextDark":"888888","LightContrast":"2f2a38","DarkContrast":"282430","TextBorder":"000000","Inline":"373f4b","Risky":"74ffcd","ImageColor":"ffffff","ImageDark":"506473","Glow":"7d98af"}]]}}}};
 	Library.Validate = function(self, Defaults, Options)
 		for Index, Value in Defaults do
 			if (Options[Index] == nil) then
@@ -128,8 +128,7 @@ do
 	Library.ClampString = function(self, String, MaxWidth)
 		local Clamped = String;
 		local TextLabel = Library:CreateObject(LUAOBFUSACTOR_DECRYPT_STR_0("\21\68\72\16\219\93\33\36\77", "\67\65\33\48\100\151\60"), {[LUAOBFUSACTOR_DECRYPT_STR_0("\249\232\160\204\213\222\228\171", "\147\191\135\206\184")]=Library.UI.Font,[LUAOBFUSACTOR_DECRYPT_STR_0("\176\45\190\213\235\71\160\139\35\163\245\202\82\188\151\56\167\211\221\93\177\157", "\210\228\72\198\161\184\51")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\2\76\235\4", "\174\86\41\147\112\19")]=String,[LUAOBFUSACTOR_DECRYPT_STR_0("\104\9\151\14", "\203\59\96\237\107\69\111\113")]=UDim2.new(1, 0, 1, 0),[LUAOBFUSACTOR_DECRYPT_STR_0("\6\25\190\229\52\226\228\45\12\169\209\56\232\210\40", "\183\68\118\204\129\81\144")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\58\168\104\240\56\129\15\161\117\224", "\226\110\205\16\132\107")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\223\198\248\205\118\249\194\240\201\68\239", "\33\139\163\128\185")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\97\81\23\215\85\84\1", "\190\55\56\100")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\98\170\36\10\32\234\233\83", "\147\54\207\92\126\115\131")]=Library.UI.FontSize,[LUAOBFUSACTOR_DECRYPT_STR_0("\61\48\39\120\3\106", "\30\109\81\85\29\109")]=CoreGui});
-		if (TextLabel.TextBounds.X > MaxWidth) then
-		else
+		if (TextLabel.TextBounds.X <= MaxWidth) then
 			TextLabel:Destroy();
 			return String;
 		end
@@ -197,8 +196,7 @@ do
 							Object.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Library.Theme.Default[ThemeKeys[1]]),ColorSequenceKeypoint.new(1, Library.Theme.Default[ThemeKeys[2]])});
 						end
 					end
-				elseif (ThemeKeys ~= ColorType) then
-				else
+				elseif (ThemeKeys == ColorType) then
 					Object[Property] = Library.Theme.Default[ThemeKeys];
 				end
 			end
@@ -309,8 +307,7 @@ do
 			Hovering = false;
 		end);
 		Library:Connection(DragFrame.InputBegan, function(input)
-			if (input.UserInputType ~= Enum.UserInputType.MouseButton1) then
-			else
+			if (input.UserInputType == Enum.UserInputType.MouseButton1) then
 				Dragging = true;
 				MouseLocation = UserInputService:GetMouseLocation();
 				StartingSize = Object.Size;
@@ -325,8 +322,7 @@ do
 			end
 		end);
 		Library:Connection(UserInputService.InputChanged, function(input)
-			if (input.UserInputType ~= Enum.UserInputType.MouseMovement) then
-			else
+			if (input.UserInputType == Enum.UserInputType.MouseMovement) then
 				if (Hovering or Dragging) then
 					local MousePosition = UserInputService:GetMouseLocation();
 					UserInputService.MouseIconEnabled = false;
@@ -389,8 +385,7 @@ do
 		do
 			ColorPicker.SetVisible = function(self, Bool)
 				ColorPickerOutline_6.Visible = Bool;
-				if (Bool ~= false) then
-				else
+				if (Bool == false) then
 					ColorPicker:RemoveFrame();
 				end
 			end;
@@ -568,8 +563,7 @@ do
 						end
 					end);
 					Library:Connection(ClickDetection_41.InputBegan, function(Input)
-						if (Input.UserInputType ~= Enum.UserInputType.MouseButton1) then
-						else
+						if (Input.UserInputType == Enum.UserInputType.MouseButton1) then
 							Library.UI.DraggingGui = ColorPickerMain_14;
 							local InputPosition = Vector2.new(Input.Position.X, Input.Position.Y);
 							local Percentage = (InputPosition - ColorPickerMain_14.AbsolutePosition) / ColorPickerMain_14.AbsoluteSize;
@@ -587,8 +581,7 @@ do
 						end
 					end);
 					Library:Connection(ClickDetection_42.InputBegan, function(Input)
-						if (Input.UserInputType ~= Enum.UserInputType.MouseButton1) then
-						else
+						if (Input.UserInputType == Enum.UserInputType.MouseButton1) then
 							Library.UI.DraggingGui = HueImage_2;
 							local InputPosition = Vector2.new(Input.Position.X, Input.Position.Y);
 							local Percentage = (InputPosition - HueImage_2.AbsolutePosition) / HueImage_2.AbsoluteSize;
@@ -604,10 +597,8 @@ do
 							return;
 						end
 						local InputPosition = Vector2.new(Input.Position.X, Input.Position.Y);
-						if (Input.UserInputType ~= Enum.UserInputType.MouseMovement) then
-						else
-							if (Library.UI.DraggingGui ~= ColorPickerMain_14) then
-							else
+						if (Input.UserInputType == Enum.UserInputType.MouseMovement) then
+							if (Library.UI.DraggingGui == ColorPickerMain_14) then
 								local Percentage = (InputPosition - ColorPickerMain_14.AbsolutePosition) / ColorPickerMain_14.AbsoluteSize;
 								ColorPicker:UpdateSaturation(Percentage.X, Percentage.Y);
 							end
@@ -617,8 +608,7 @@ do
 								local Percentage = ((GuiPosition + GuiSize) - InputPosition.X) / GuiSize;
 								ColorPicker:UpdateAlpha(Percentage);
 							end
-							if (Library.UI.DraggingGui ~= HueImage_2) then
-							else
+							if (Library.UI.DraggingGui == HueImage_2) then
 								local Percentage = (InputPosition - HueImage_2.AbsolutePosition) / HueImage_2.AbsoluteSize;
 								ColorPicker:UpdateHue(Percentage.Y);
 							end
@@ -837,8 +827,7 @@ do
 	Library.Keybind = function(self, Options)
 		Options = Library:Validate({[LUAOBFUSACTOR_DECRYPT_STR_0("\215\239\61\179\230\230\47", "\210\147\138\91")]=Enum.KeyCode.Backspace,[LUAOBFUSACTOR_DECRYPT_STR_0("\24\242\204\78", "\115\85\157\168\43\80")]=LUAOBFUSACTOR_DECRYPT_STR_0("\203\85\128\80\128\204", "\169\159\58\231\55\236\169\38"),[LUAOBFUSACTOR_DECRYPT_STR_0("\57\200\187\21\226\6\115\28\237\182\3\208", "\28\113\161\223\112\164\116")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\228\84\70\122\80\202\81\84\109\94\194", "\59\166\56\39\25")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\130\217\212\205\77\166", "\35\210\184\166\168")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\109\86\122\69\40\114", "\23\57\57\29\34\68")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\125\48\22\34\101\24", "\76\48\81\127")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\58\170\86\176\6\113\238\68\15\177\84", "\48\110\197\49\215\106\20\189")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\59\30\73\171", "\108\125\114\40\204\160\75\38")]=Library.NewFlag(),[LUAOBFUSACTOR_DECRYPT_STR_0("\22\127\234\3\33", "\109\85\16\159")]=1,[LUAOBFUSACTOR_DECRYPT_STR_0("\4\242\161\87\25\89\179\44", "\208\71\147\205\59\123\56")]=function()
 		end}, Options or {});
-		if (Options.Toggle ~= nil) then
-		else
+		if (Options.Toggle == nil) then
 			return;
 		end
 		local Keybind = {[LUAOBFUSACTOR_DECRYPT_STR_0("\127\47\146\189\69", "\216\55\64\228")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\158\139\42\203\175\240\205\173\137\51\199", "\139\223\232\94\162\217\149")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\254\134\58\243\178\91\206", "\170\181\227\67\145\219\53")]=Options.Default,[LUAOBFUSACTOR_DECRYPT_STR_0("\107\128\25\153\92\156\28\187\87\129", "\210\57\229\126")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\139\39\235\178\55", "\227\216\83\138\198\82\165")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\24\176\186\125\241\63\188\184\127\217\46\172\180\113\252\47", "\146\75\213\214\24")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\126\113\198\67\118\64", "\53\42\30\161\36\26\37")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\222\246\249\238\248\250\227\233\242\247", "\128\157\153\151")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\91\122\136\44", "\19\22\21\236\73\117")]=Options.Mode,[LUAOBFUSACTOR_DECRYPT_STR_0("\84\202\172\175\254\186\6\243\110\199\171\167\243", "\150\23\165\194\201\151\221\77")]=nil,[LUAOBFUSACTOR_DECRYPT_STR_0("\93\46\250\8\123\53\252", "\122\30\91\136")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\156\177\247\162\136\177\176\200\191\137\186", "\237\223\196\133\208")]=nil};
@@ -868,13 +857,14 @@ do
 				end
 				if (typeof(Key) == LUAOBFUSACTOR_DECRYPT_STR_0("\56\183\226\1\18\9\188\250", "\91\125\217\151\108")) then
 					Keybind.RegKeybind = Key;
-				elseif (typeof(Key) ~= LUAOBFUSACTOR_DECRYPT_STR_0("\234\7\180\121\208\254", "\190\153\115\198\16")) then
-				elseif table.find(UserInputTypeBinds, Key) then
-					Keybind.RegKeybind = Enum.UserInputType[Key];
-					Key = Enum.UserInputType[Key];
-				else
-					Keybind.RegKeybind = Enum.KeyCode[Key];
-					Key = Enum.KeyCode[Key];
+				elseif (typeof(Key) == LUAOBFUSACTOR_DECRYPT_STR_0("\234\7\180\121\208\254", "\190\153\115\198\16")) then
+					if table.find(UserInputTypeBinds, Key) then
+						Keybind.RegKeybind = Enum.UserInputType[Key];
+						Key = Enum.UserInputType[Key];
+					else
+						Keybind.RegKeybind = Enum.KeyCode[Key];
+						Key = Enum.KeyCode[Key];
+					end
 				end
 				if (typeof(Key) == LUAOBFUSACTOR_DECRYPT_STR_0("\41\111\184\142\52\124", "\231\90\27\202")) then
 					if Key:find(LUAOBFUSACTOR_DECRYPT_STR_0("\170\161\97", "\62\225\228\56\194")) then
@@ -936,8 +926,7 @@ do
 			Keybind.Active = function(self)
 				return Keybind.State;
 			end;
-			if (Options.Mode ~= LUAOBFUSACTOR_DECRYPT_STR_0("\87\58\208\18\60\101", "\69\22\86\167\115")) then
-			else
+			if (Options.Mode == LUAOBFUSACTOR_DECRYPT_STR_0("\87\58\208\18\60\101", "\69\22\86\167\115")) then
 				Keybind:Toggle(true);
 			end
 			Keybind.SetMode = function(self, Mode)
@@ -1029,8 +1018,7 @@ do
 					do
 						ModeItem.Activate = function(self)
 							if not ModeItem.Active then
-								if (Keybind.CurrentMode == nil) then
-								else
+								if (Keybind.CurrentMode ~= nil) then
 									Keybind.CurrentMode:Deactivate();
 								end
 								ModeItem.Active = true;
@@ -1052,8 +1040,7 @@ do
 									if Keybind.State then
 										Library:UpdateKeybindFrame(Value, Options.Toggle:GetName(), Keybind.Keybind, Options.Toggle:GetSection());
 									end
-								elseif (Value ~= LUAOBFUSACTOR_DECRYPT_STR_0("\147\136\227\128\86\38\184", "\74\220\230\195\200\57")) then
-								else
+								elseif (Value == LUAOBFUSACTOR_DECRYPT_STR_0("\147\136\227\128\86\38\184", "\74\220\230\195\200\57")) then
 									Keybind.State = false;
 									Library:RemoveKeybindFrame(Options.Toggle:GetName(), Options.Toggle:GetSection());
 								end
@@ -1073,8 +1060,7 @@ do
 							ModeItem:Activate();
 						end);
 					end
-					if (Value ~= Keybind.Mode) then
-					else
+					if (Value == Keybind.Mode) then
 						ModeItem:Activate();
 					end
 				end
@@ -1283,8 +1269,7 @@ do
 		do
 			MultiBox.AddValue = function(self, Index, Value)
 				local Item = {[LUAOBFUSACTOR_DECRYPT_STR_0("\202\22\240\135\240\16\232\133", "\226\130\121\134")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\169\58\215\114\158\60", "\27\232\89\163")]=false};
-				if (Item[Index] == nil) then
-				else
+				if (Item[Index] ~= nil) then
 					return;
 				end
 				Item[Index] = {[LUAOBFUSACTOR_DECRYPT_STR_0("\253\167\211\215\245\167\195\198", "\163\148\201\160")]={},[LUAOBFUSACTOR_DECRYPT_STR_0("\72\132\228\243\184", "\101\62\229\136\134\221")]=Value};
@@ -1307,8 +1292,7 @@ do
 					end;
 					Item.DeselectItem = function(self, Item)
 						for Index, Value in MultiBox.SelectedOrder do
-							if (Value ~= Item) then
-							else
+							if (Value == Item) then
 								table.remove(MultiBox.SelectedOrder, Index);
 								break;
 							end
@@ -1433,8 +1417,7 @@ do
 			end);
 		end
 		for Index, Value in Options.Content do
-			if (typeof(Value) ~= LUAOBFUSACTOR_DECRYPT_STR_0("\6\33\165\124\1\47\164", "\16\100\78\202")) then
-			else
+			if (typeof(Value) == LUAOBFUSACTOR_DECRYPT_STR_0("\6\33\165\124\1\47\164", "\16\100\78\202")) then
 				continue;
 			end
 			MultiBox:AddValue(Index, Value);
@@ -1593,8 +1576,7 @@ do
 						Dropdown:Toggle();
 					end);
 				end
-				if (Value ~= Options.Default) then
-				else
+				if (Value == Options.Default) then
 					Item:Activate();
 				end
 			end;
@@ -1618,8 +1600,7 @@ do
 					DropdownContentHolder.ZIndex = Options.MainUI.ZIndex + Library.UI.DropdownZIndex;
 					Library.UI.DropdownZIndex += 1
 					DropdownContentHolder.Visible = true;
-					if (DropdownContentScrolling.AbsoluteCanvasSize.Y <= 121) then
-					else
+					if (DropdownContentScrolling.AbsoluteCanvasSize.Y > 121) then
 						Library:TweenObject(DropdownContentScrolling, TweenInfo.new(Library.UI.TweenSpeed, Library.UI.TweenEasingStyle, Enum.EasingDirection.InOut), {[LUAOBFUSACTOR_DECRYPT_STR_0("\6\254\154\227\57\241\170\237\39\212\133\237\50\248\188\254\52\243\155\252\52\239\141\226\54\228", "\140\85\157\232")]=0});
 						if not Dropdown.Scrollable then
 							DropdownContentScrolling.Size = UDim2.new(DropdownContentScrolling.Size.X.Scale, DropdownContentScrolling.Size.X.Offset + 3, DropdownContentScrolling.Size.Y.Scale, DropdownContentScrolling.Size.Y.Offset);
@@ -1816,8 +1797,7 @@ do
 				end
 			end);
 			Library:Connection(UserInputService.InputEnded, function(input)
-				if (input.UserInputType ~= Enum.UserInputType.MouseButton1) then
-				else
+				if (input.UserInputType == Enum.UserInputType.MouseButton1) then
 					Slider.MouseDown = false;
 					Library:TweenObject(SliderOutline, TweenInfo.new(Library.UI.TweenSpeed, Library.UI.TweenEasingStyle, Enum.EasingDirection.InOut), {[LUAOBFUSACTOR_DECRYPT_STR_0("\141\80\192\229\33\171\134\186\95\199\205\41\181\134\189\2", "\233\207\49\163\142\70\217")]=Library.Theme.Default.Outline});
 					Library:AddTheme(SliderOutline, {[LUAOBFUSACTOR_DECRYPT_STR_0("\108\216\193\230\198\162\142\91\215\198\206\206\188\142\92\138", "\225\46\185\162\141\161\208")]=LUAOBFUSACTOR_DECRYPT_STR_0("\248\197\104\81\178\217\213", "\219\183\176\28\61")});
@@ -2105,12 +2085,10 @@ do
 						Options = Library:Validate({[LUAOBFUSACTOR_DECRYPT_STR_0("\121\245\196\184", "\74\55\148\169\221\91\150")]=LUAOBFUSACTOR_DECRYPT_STR_0("\19\33\160\18", "\124\94\64\201"),[LUAOBFUSACTOR_DECRYPT_STR_0("\212\236\24\165\60\162\238\225\13", "\206\135\143\106\202\80")]=false}, Options or {});
 						local WindowTab = {[LUAOBFUSACTOR_DECRYPT_STR_0("\205\74\49\172\223\219", "\42\140\41\69\197\169\190\106")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\156\137\241\182\166\143\233\180", "\211\212\230\135")]=false,[LUAOBFUSACTOR_DECRYPT_STR_0("\97\175\115\227\205", "\190\50\198\23\134")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\111\81\165\72", "\151\35\52\195\60\190\17\159")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\133\189\97\236\145", "\226\214\212\27\137")]=-1},[LUAOBFUSACTOR_DECRYPT_STR_0("\76\54\182\44\255", "\172\30\95\209\68\139")]={[LUAOBFUSACTOR_DECRYPT_STR_0("\197\17\50\80\229", "\53\150\120\72")]=-1}}};
 						Library.SetTab = function(self, Tab)
-							if (Window.CurrentTab == nil) then
-							else
+							if (Window.CurrentTab ~= nil) then
 								Window.CurrentTab:Deactivate();
 							end
-							if (Options.Name ~= Tab) then
-							else
+							if (Options.Name == Tab) then
 								WindowTab:Activate();
 							end
 						end;
@@ -2168,8 +2146,7 @@ do
 							end;
 							WindowTab.Activate = function(self)
 								if not WindowTab.Active then
-									if (Window.CurrentTab == nil) then
-									else
+									if (Window.CurrentTab ~= nil) then
 										Window.CurrentTab:Deactivate();
 									end
 									WindowTab.Active = true;
@@ -2216,8 +2193,7 @@ do
 								end
 							end);
 						end
-						if (Window.CurrentTab ~= nil) then
-						else
+						if (Window.CurrentTab == nil) then
 							WindowTab:Activate();
 						end
 						table.insert(Window.Tabs, TabInactiveOutline);
@@ -2229,8 +2205,7 @@ do
 							local Parent = ((Options.Side == LUAOBFUSACTOR_DECRYPT_STR_0("\170\198\28\224", "\21\230\163\122\148\226\128")) and Left) or Right;
 							local SectionOutline = Library:CreateObject(LUAOBFUSACTOR_DECRYPT_STR_0("\121\12\62\227\90", "\142\63\126\95"), {[LUAOBFUSACTOR_DECRYPT_STR_0("\48\243\93\193", "\218\126\146\48\164\108")]=LUAOBFUSACTOR_DECRYPT_STR_0("\44\242\1\185\200\255\200\48\226\22\161\200\254\195", "\166\127\151\98\205\161\144"),[LUAOBFUSACTOR_DECRYPT_STR_0("\252\81\161\51\92\77\16\209\82\188\37\10", "\83\190\62\211\87\57\63")]=Color3.fromRGB(0, 0, 0),[LUAOBFUSACTOR_DECRYPT_STR_0("\219\204\240\13", "\46\136\165\138\104\18\174\157")]=UDim2.new(1, -1, 0, 30),[LUAOBFUSACTOR_DECRYPT_STR_0("\163\55\162\38\132\42\131\43\155\61\128\43\153\61\188", "\66\225\88\208")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\202\36\127\54\239\55\115\40\230\33\95\50\228\42\110\110", "\93\136\69\28")]=Library.Theme.Default.Inline,[LUAOBFUSACTOR_DECRYPT_STR_0("\5\25\244\231\58\40", "\131\95\80\154")]=Library.UI.SectionZIndex,[LUAOBFUSACTOR_DECRYPT_STR_0("\241\206\201\126\245\118\52\8\211\232\212\107\253", "\97\176\187\189\17\152\23\64")]=((Options.Fill and Enum.AutomaticSize.None) or Enum.AutomaticSize.Y),[LUAOBFUSACTOR_DECRYPT_STR_0("\35\244\159\181\9\208", "\139\115\149\237\208\103\164")]=Parent});
 							task.delay(0.01, function()
-								if (Options.Fill ~= false) then
-								else
+								if (Options.Fill == false) then
 									WindowTab.Sides[Options.Side].Sizes += (SectionOutline.AbsoluteSize.Y + 4)
 								end
 								SectionOutline.Size = UDim2.new(1, -1, (Options.Fill and 1) or 0, (Options.Fill and -WindowTab.Sides[Options.Side].Sizes) or 30);
@@ -2267,8 +2242,7 @@ do
 							local Parent = ((Options.Side == LUAOBFUSACTOR_DECRYPT_STR_0("\154\204\21\47", "\71\214\169\115\91\62")) and Left) or Right;
 							local SectionOutline = Library:CreateObject(LUAOBFUSACTOR_DECRYPT_STR_0("\113\215\241\27\75", "\71\55\165\144\118\46\71\159"), {[LUAOBFUSACTOR_DECRYPT_STR_0("\199\83\39\38", "\141\137\50\74\67\66\147")]=LUAOBFUSACTOR_DECRYPT_STR_0("\138\168\192\48\243\206\183\130\214\48\246\200\183\168", "\161\217\205\163\68\154"),[LUAOBFUSACTOR_DECRYPT_STR_0("\109\235\194\124\129\229\44\21\67\235\194\43", "\122\47\132\176\24\228\151\111")]=Color3.fromRGB(0, 0, 0),[LUAOBFUSACTOR_DECRYPT_STR_0("\204\224\93\20", "\16\159\137\39\113\57\220\63")]=UDim2.new(1, -1, 0, 30),[LUAOBFUSACTOR_DECRYPT_STR_0("\216\14\213\230\19\232\50\206\248\19\202\8\223\231\26", "\118\154\97\167\130")]=0,[LUAOBFUSACTOR_DECRYPT_STR_0("\17\78\163\126\52\93\175\96\61\75\131\122\63\64\178\38", "\21\83\47\192")]=Library.Theme.Default.Inline,[LUAOBFUSACTOR_DECRYPT_STR_0("\9\90\229\208\64\38", "\94\83\19\139\180\37")]=Library.UI.SectionZIndex,[LUAOBFUSACTOR_DECRYPT_STR_0("\197\226\193\140\250\229\227\220\128\196\237\237\208", "\151\132\151\181\227")]=((Options.Fill and Enum.AutomaticSize.None) or Enum.AutomaticSize.Y),[LUAOBFUSACTOR_DECRYPT_STR_0("\26\240\212\53\36\229", "\80\74\145\166")]=Parent});
 							task.delay(0.01, function()
-								if (Options.Fill ~= false) then
-								else
+								if (Options.Fill == false) then
 									WindowTab.Sides[Options.Side].Sizes += (SectionOutline.AbsoluteSize.Y + 4)
 								end
 								SectionOutline.Size = UDim2.new(1, -1, (Options.Fill and 1) or 0, (Options.Fill and -WindowTab.Sides[Options.Side].Sizes) or 30);
@@ -2322,8 +2296,7 @@ do
 									end;
 									SectionItem.Activate = function(self)
 										if not SectionItem.Active then
-											if (MultiSection.CurrentSection == nil) then
-											else
+											if (MultiSection.CurrentSection ~= nil) then
 												MultiSection.CurrentSection:Deactivate();
 											end
 											SectionItem.Active = true;
@@ -2557,8 +2530,7 @@ do
 							PlayerList.CurrentFlags[Player.Name] = ((Player ~= Players.LocalPlayer) and Flag) or LUAOBFUSACTOR_DECRYPT_STR_0("\47\207\78\210", "\211\124\170\34\180");
 							PlayerFlag.Text = ((Player ~= Players.LocalPlayer) and Flag) or LUAOBFUSACTOR_DECRYPT_STR_0("\53\77\192\198", "\93\102\40\172\160\23\99\48");
 							PlayerFlag.TextColor3 = ((Player ~= Players.LocalPlayer) and ((PlayerList.FlagColors[Flag] and PlayerList.FlagColors[Flag]) or Library.Theme.Default.TextColor)) or Color3.fromRGB(90, 0, 180);
-							if (Flag == LUAOBFUSACTOR_DECRYPT_STR_0("\15\254\6\23", "\66\65\145\104\114\37\45\126")) then
-							else
+							if (Flag ~= LUAOBFUSACTOR_DECRYPT_STR_0("\15\254\6\23", "\66\65\145\104\114\37\45\126")) then
 								Library.Theme.Objects[PlayerFlag] = nil;
 							end
 						end,[LUAOBFUSACTOR_DECRYPT_STR_0("\115\77\62\45\120\87", "\22\35\44\76\72")]=FlagOptionHolder});
@@ -2581,8 +2553,7 @@ do
 								Library:TeleportClient(Position);
 							end});
 							Window.UpdatePlayerInfo = function(self)
-								if (PlayerList.CurrentPlayer == nil) then
-								else
+								if (PlayerList.CurrentPlayer ~= nil) then
 									local CurrentPlayer = Players:FindFirstChild(PlayerList.CurrentPlayer.PlayerName);
 									if CurrentPlayer then
 										local Humanoid = CurrentPlayer.Character:FindFirstChildWhichIsA(LUAOBFUSACTOR_DECRYPT_STR_0("\215\238\78\79\73\71\237\14", "\106\159\155\35\46\39\40\132"));
@@ -2807,10 +2778,10 @@ do
 							if Configs.CurrentConfig then
 								Library:LoadConfig(readfile(LUAOBFUSACTOR_DECRYPT_STR_0("\143\15\198\241\0\139\15\199\181\58\172\20\195\243\30\176\85", "\121\195\122\165\154") .. Configs.CurrentConfig.Name .. LUAOBFUSACTOR_DECRYPT_STR_0("\68\164\160\43", "\136\106\199\198\76")));
 							end
-						elseif (Index ~= 4) then
-						elseif (Configs.CurrentConfig == nil) then
-						else
-							writefile(LUAOBFUSACTOR_DECRYPT_STR_0("\13\29\163\78\219\35\52\10\239\102\205\5\39\1\167\86\141", "\107\65\104\192\37\162") .. Configs.CurrentConfig.Name .. LUAOBFUSACTOR_DECRYPT_STR_0("\29\165\227\119", "\153\51\198\133\16\142\149"), Library:GetConfig());
+						elseif (Index == 4) then
+							if (Configs.CurrentConfig ~= nil) then
+								writefile(LUAOBFUSACTOR_DECRYPT_STR_0("\13\29\163\78\219\35\52\10\239\102\205\5\39\1\167\86\141", "\107\65\104\192\37\162") .. Configs.CurrentConfig.Name .. LUAOBFUSACTOR_DECRYPT_STR_0("\29\165\227\119", "\153\51\198\133\16\142\149"), Library:GetConfig());
+							end
 						end
 					end});
 				end
@@ -3477,8 +3448,7 @@ local function removeEsp(plr)
 	end
 end
 local function initEsp(plr)
-	if (plr ~= localPlayer) then
-	else
+	if (plr == localPlayer) then
 		return;
 	end
 	local data = {[LUAOBFUSACTOR_DECRYPT_STR_0("\226\2\46", "\94\160\109\86\104\235")]=newDrawing(LUAOBFUSACTOR_DECRYPT_STR_0("\124\102\12\88\93\114", "\57\47\23\121")),[LUAOBFUSACTOR_DECRYPT_STR_0("\65\159\172\218\223\103", "\186\21\237\205\185")]=newDrawing(LUAOBFUSACTOR_DECRYPT_STR_0("\31\46\85\1", "\100\83\71\59")),[LUAOBFUSACTOR_DECRYPT_STR_0("\151\124\65\44\141\120\84\61", "\73\217\29\44")]=newDrawing(LUAOBFUSACTOR_DECRYPT_STR_0("\126\232\179\81", "\209\42\141\203\37"))};
@@ -3509,8 +3479,7 @@ Players.PlayerAdded:Connect(function(plr)
 end);
 Players.PlayerRemoving:Connect(removeEsp);
 for _, plr in pairs(Players:GetPlayers()) do
-	if (plr == localPlayer) then
-	else
+	if (plr ~= localPlayer) then
 		initEsp(plr);
 	end
 end
@@ -3643,8 +3612,7 @@ local function getAimPart(char)
 	elseif (AimPartChoice == LUAOBFUSACTOR_DECRYPT_STR_0("\31\164\217\65\36", "\50\75\203\171")) then
 		local torso = char:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\31\211\31\128\192\30\204\29\150\221", "\178\74\163\111\229")) or char:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\120\205\50\50\213", "\237\44\162\64\65\186\23"));
 		return torso;
-	elseif (AimPartChoice ~= LUAOBFUSACTOR_DECRYPT_STR_0("\156\61\225\73\142\190\189\44\222\71\143\165\132\41\254\92", "\209\212\72\140\40\224")) then
-	else
+	elseif (AimPartChoice == LUAOBFUSACTOR_DECRYPT_STR_0("\156\61\225\73\142\190\189\44\222\71\143\165\132\41\254\92", "\209\212\72\140\40\224")) then
 		return char:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\228\145\253\200\17\32\197\128\194\198\16\59\252\133\226\221", "\79\172\228\144\169\127"));
 	end
 	return char:FindFirstChild(LUAOBFUSACTOR_DECRYPT_STR_0("\24\34\236\247", "\182\80\71\141\147"));
@@ -3673,8 +3641,7 @@ local function getTargetCrosshair()
 				if vis then
 					local center = Vector2.new(cam.ViewportSize.X / 2, cam.ViewportSize.Y / 2);
 					local dist = (Vector2.new(sp.X, sp.Y) - center).Magnitude;
-					if (dist >= bestDist) then
-					else
+					if (dist < bestDist) then
 						bestDist = dist;
 						best = plr;
 					end
@@ -3694,8 +3661,7 @@ local function getTargetDistanceCamera()
 			local part = getAimPart(char);
 			if part then
 				local dist = (part.Position - camPos).Magnitude;
-				if (dist >= bestDist) then
-				else
+				if (dist < bestDist) then
 					bestDist = dist;
 					best = plr;
 				end
@@ -3718,8 +3684,7 @@ local function getTargetDistancePlayer()
 			local part = getAimPart(tch);
 			if part then
 				local dist = (part.Position - hrp.Position).Magnitude;
-				if (dist >= bestDist) then
-				else
+				if (dist < bestDist) then
 					bestDist = dist;
 					best = plr;
 				end
@@ -3759,8 +3724,7 @@ RunService.Stepped:Connect(function()
 		return;
 	end
 	local target = getTarget();
-	if (target == CurrentTarget) then
-	else
+	if (target ~= CurrentTarget) then
 		AimbotHighlight.Enabled = false;
 		AimbotHighlight.Adornee = nil;
 		LockOnNameText.Visible = false;
@@ -3894,11 +3858,12 @@ local ToggleNoRecoil = WeaponSection:Toggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\18\2
 		print("[NoRecoil] Searching getgc for 'v4' table with .Fire & .HookEvent...");
 		if not v4 then
 			for _, obj in ipairs(getgc(true)) do
-				if (type(obj) ~= LUAOBFUSACTOR_DECRYPT_STR_0("\58\236\15\80\43", "\60\78\141\109")) then
-				elseif ((type(rawget(obj, LUAOBFUSACTOR_DECRYPT_STR_0("\210\247\239\136", "\145\148\158\157\237\32"))) == LUAOBFUSACTOR_DECRYPT_STR_0("\61\177\112\91\16\250\236\53", "\131\91\196\30\56\100\147")) and (type(rawget(obj, LUAOBFUSACTOR_DECRYPT_STR_0("\143\22\22\78\55\172\161\234\179", "\132\199\121\121\37\114\218\196"))) == LUAOBFUSACTOR_DECRYPT_STR_0("\50\74\249\211\32\86\248\222", "\176\84\63\151"))) then
-					print("[NoRecoil] Found potential 'v4' table in memory.");
-					v4 = obj;
-					break;
+				if (type(obj) == LUAOBFUSACTOR_DECRYPT_STR_0("\58\236\15\80\43", "\60\78\141\109")) then
+					if ((type(rawget(obj, LUAOBFUSACTOR_DECRYPT_STR_0("\210\247\239\136", "\145\148\158\157\237\32"))) == LUAOBFUSACTOR_DECRYPT_STR_0("\61\177\112\91\16\250\236\53", "\131\91\196\30\56\100\147")) and (type(rawget(obj, LUAOBFUSACTOR_DECRYPT_STR_0("\143\22\22\78\55\172\161\234\179", "\132\199\121\121\37\114\218\196"))) == LUAOBFUSACTOR_DECRYPT_STR_0("\50\74\249\211\32\86\248\222", "\176\84\63\151"))) then
+						print("[NoRecoil] Found potential 'v4' table in memory.");
+						v4 = obj;
+						break;
+					end
 				end
 			end
 		end
@@ -3938,8 +3903,7 @@ local ToggleNoSpread = WeaponSection:Toggle({[LUAOBFUSACTOR_DECRYPT_STR_0("\61\2
 		print("[NoSpread] Attempting to find and hook 'gspread'...");
 		if not gspreadFunction then
 			for i, func in pairs(getgc(true)) do
-				if (type(func) ~= LUAOBFUSACTOR_DECRYPT_STR_0("\172\223\220\225\190\195\221\236", "\130\202\170\178")) then
-				else
+				if (type(func) == LUAOBFUSACTOR_DECRYPT_STR_0("\172\223\220\225\190\195\221\236", "\130\202\170\178")) then
 					local info = debug.getinfo(func);
 					if (info and (info.name == LUAOBFUSACTOR_DECRYPT_STR_0("\175\52\59\73\187\219\112", "\55\200\71\75\59\222\186\20")) and info.source) then
 						print("[NoSpread] Found 'gspread' function => Hooking it now!");
@@ -4329,8 +4293,7 @@ UserInputService.InputChanged:Connect(function(input, processed)
 	end
 end);
 UserInputService.InputEnded:Connect(function(input, processed)
-	if (input.UserInputType ~= Enum.UserInputType.MouseButton2) then
-	else
+	if (input.UserInputType == Enum.UserInputType.MouseButton2) then
 		userPanningCamera = false;
 		lastMousePos = nil;
 	end
@@ -4446,8 +4409,7 @@ UserInputService.InputBegan:Connect(function(input, gameProcessed)
 	if gameProcessed then
 		return;
 	end
-	if (input.KeyCode ~= Enum.KeyCode.F) then
-	else
+	if (input.KeyCode == Enum.KeyCode.F) then
 		flying = not flying;
 		if flying then
 			humanoid.PlatformStand = true;
